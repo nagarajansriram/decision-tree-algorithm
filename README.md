@@ -1,2 +1,6 @@
 "#decision-tree-algorithm"
-This example trains and test diabetes dataset. The input file is in arff format which is native format for WEKA.
+This is a complete program which demonstrates the usage of 
+ (i) Usig DT algorithm to predict diabetes
+ (ii) Using DT and Adaboost to predict diabetes
+ 
+ The result shows Adaboost really improves the accuracy
